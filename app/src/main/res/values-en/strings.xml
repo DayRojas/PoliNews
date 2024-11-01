@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poli News</string>
+
+    <string name="tipoNoticia">Please choose the type of news you are interested in:</string>
+    <string name="btn_internacional">International</string>
+    <string name="btn_economia">Economy</string>
+    <string name="btn_tecnologia">Technology</string>
+
+    <string name="titulo1">More than 1,000 migrants rescued in Italy over the weekend</string>
+    <string name="noticia1">In Italy, disagreements between regional governments hold back actions to deal with the migration crisis. The situation worsens as the days go by. Just this weekend, almost 1,000 migrants were rescued in the Mediterranean Sea.</string>
+    <string name="titulo2">Australian man charged with allegedly feeding intelligence to Chinese spies</string>
+    <string name="noticia2">Alexander Csergo, 55, was arrested in Bondi Beach, a Sydney suburb, on April 14, accused of receiving money from two spies he allegedly knew by the code names "Ken" and "Evelyn" in exchange for information.</string>
+
+    <string name="titulo_1">Effects on the reforms of a possible rupture in the government coalition</string>
+    <string name="noticia_1">Experts say that if it does not withstand the pressure and breaks, there would be a paralysis of the legislative management</string>
+    <string name="titulo_2">The dollar with a lot of movement</string>
+    <string name="noticia_2">The minimum price of the currency during this Monday, April 17, was 4,410 pesos.</string>
+
+    <string name="tituloo1">‘Humans could become irrelevant with AI’</string>
+    <string name="noticiaa1">AI is not about humanitys dominance over nature, but about relinquishing its control.</string>
+    <string name="tituloo2">AI advance scares and puts humanity on guard</string>
+    <string name="noticiaa2">More than 1,000 experts called for a six-month moratorium in order to think about how to regulate it.</string>
+</resources>

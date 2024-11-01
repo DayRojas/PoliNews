@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poly Notizie</string>
+
+    <string name="tipoNoticia">Scegli il tipo di notizie di tuo interesse:</string>
+    <string name="btn_internacional">Internazionale</string>
+    <string name="btn_economia">Economia</string>
+    <string name="btn_tecnologia">Tecnologia</string>
+
+    <string name="titulo1">Più di 1.000 migranti soccorsi in Italia nel fine settimana</string>
+    <string name="noticia1">In Italia, i disaccordi tra i governi regionali frenano le azioni per affrontare la crisi migratoria. La situazione peggiora con il passare dei giorni. Proprio questo fine settimana, quasi 1.000 migranti sono stati soccorsi nel Mar Mediterraneo.</string>
+    <string name="titulo2">Uomo australiano accusato di aver fornito informazioni a spie cinesi</string>
+    <string name="noticia2">Alexander Csergo, 55 anni, è stato arrestato a Bondi Beach, un sobborgo di Sydney, il 14 aprile, accusato di aver ricevuto denaro da due spie che avrebbe conosciuto con i nomi in codice "Ken" e "Evelyn" in cambio di informazioni.</string>
+
+    <string name="titulo_1">Effetti sulle riforme di una possibile rottura della coalizione di governo</string>
+    <string name="noticia_1">Gli esperti dicono che se non resiste alle pressioni e si rompe, ci sarebbe una paralisi della gestione legislativa </string>
+    <string name="titulo_2">Il dollaro con molto movimento</string>
+    <string name="noticia_2">Il prezzo minimo della valuta durante questo lunedì 17 aprile è stato di 4.410 pesos.</string>
+
+    <string name="tituloo1">"Gli esseri umani potrebbero diventare irrilevanti con l'IA"</string>
+    <string name="noticiaa1">L intelligenza artificiale non riguarda il dominio dell umanità sulla natura, ma l abbandono del suo controllo.</string>
+    <string name="tituloo2">L avanzata dell intelligenza artificiale spaventa e mette in guardia l umanità</string>
+    <string name="noticiaa2">Più di 1.000 esperti hanno chiesto una moratoria di sei mesi per pensare a come regolarla.</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tipoNoticia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="12dp"
+        android:text="@string/tipoNoticia"
+        />
+    <Button
+        android:id="@+id/btn_internacional"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:onClick="info_Internacional"
+        android:text="@string/btn_internacional"
+        android:textSize="18sp"
+        android:layout_below="@id/tipoNoticia"/>
+
+    <Button
+        android:id="@+id/btn_economia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:onClick="info_Economia"
+        android:text="@string/btn_economia"
+        android:textSize="18sp"
+        android:layout_below="@id/btn_internacional"/>
+
+    <Button
+        android:id="@+id/btn_tecnologia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_economia"
+        android:layout_marginTop="16dp"
+        android:onClick="info_Tecnologia"
+        android:text="@string/btn_tecnologia"
+        android:textSize="18sp" />
+
+    </RelativeLayout>
+
+

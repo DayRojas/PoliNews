@@ -1,0 +1,26 @@
+ <resources>
+    <string name="app_name">Poli News</string>
+
+         <string name="tipoNoticia">Por favor escoja el tipo de noticia de su interés:</string>
+         <string name="btn_internacional">Internacional</string>
+         <string name="btn_economia">Economía</string>
+         <string name="btn_tecnologia">Tecnología</string>
+
+        <string name="titulo1">Rescatan más de 1.000 migrantes en Italia durante el fin de semana</string>
+        <string name="noticia1">En Italia, los desacuerdos entre los gobiernos regionales frenan las acciones para hacer frente a la crisis migratoria. La situación se agrava con el correr de los días. Tan solo este fin de semana, casi 1.000 migrantes fueron rescatados en el Mar Mediterráneo.</string>
+        <string name="titulo2">Acusan a un australiano de supuestamente suministrar información de inteligencia a espías chinos</string>
+        <string name="noticia2">Alexander Csergo, de 55 años, fue arrestado en Bondi Beach, un suburbio de Sydney, el 14 de abril, acusado de recibir dinero de dos espías que supuestamente conocía por los nombres en clave “Ken” y “Evelyn” a cambio de información.</string>
+
+        <string name="titulo_1">Efectos en las reformas de posible ruptura en la coalición de Gobierno</string>
+        <string name="noticia_1">Expertos dicen que si no resiste la presión y se rompe, se daría una parálisis de la gestión legislativa </string>
+        <string name="titulo_2">El dólar con mucho movimiento</string>
+        <string name="noticia_2">El precio mínimo de la divisa durante este lunes 17 de abril fue de 4.410 pesos.</string>
+
+        <string name="tituloo1">‘Los humanos podrían llegar a ser irrelevantes con la IA’</string>
+        <string name="noticiaa1">La IA no se trata del dominio de la humanidad sobre la naturaleza, sino de renunciar a su control.</string>
+        <string name="tituloo2">Avance de IA asusta y pone en guardia a la humanidad</string>
+        <string name="noticiaa2">Más de 1.000 expertos pidieron una moratoria de seis meses en para poder pensar cómo regularla.</string>
+
+
+    </resources>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tituloo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tituloo1" />
+
+
+    <TextView
+        android:id="@+id/noticiaa1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/noticiaa1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_below="@id/tituloo1" />
+
+    <TextView
+        android:id="@+id/tituloo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tituloo2"
+        android:layout_below="@id/noticiaa1"/>
+
+    <TextView
+        android:id="@+id/noticiaa2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/noticiaa2"
+        android:layout_below="@id/tituloo2"/>
+
+</RelativeLayout>
